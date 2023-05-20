@@ -1,1 +1,3 @@
-n = input('Digite um valor: ')
+n = input('Digite algo: ')
+print(n.isnumeric())
+
